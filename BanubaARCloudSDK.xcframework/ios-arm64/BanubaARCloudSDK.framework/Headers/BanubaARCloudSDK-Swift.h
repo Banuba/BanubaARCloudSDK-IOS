@@ -232,9 +232,9 @@ SWIFT_CLASS("_TtC16BanubaARCloudSDK13BanubaARCloud")
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSURL * _Nonnull effectsFolderURL;)
 + (NSURL * _Nonnull)effectsFolderURL SWIFT_WARN_UNUSED_RESULT;
 /// Initialize AR cloud client with UUID string.
-/// \param uuidString the client token is used to identify which effects available.
+/// \param effectsUrl the effectsUrl is used to provide effects.
 ///
-- (nonnull instancetype)initWithUuidString:(NSString * _Nonnull)uuidString OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithArCloudUrl:(NSString * _Nonnull)arCloudUrl OBJC_DESIGNATED_INITIALIZER;
 /// Retrieve ar effects from cloud.
 - (void)getAREffectsWithCompletion:(void (^ _Nonnull)(NSArray<id <AREffect>> * _Nullable, NSError * _Nullable))completion;
 /// Retrieve the ar effect preview image
