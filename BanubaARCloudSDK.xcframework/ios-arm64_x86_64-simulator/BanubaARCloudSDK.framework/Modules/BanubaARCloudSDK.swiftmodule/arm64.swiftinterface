@@ -1,11 +1,12 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)
+// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
 // swift-module-flags: -target arm64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name BanubaARCloudSDK
 @_exported import BanubaARCloudSDK
 import BanubaUtilities
 import Foundation
 import Swift
 import UIKit
+import _Concurrency
 @objc public protocol AREffect {
   @objc var title: Swift.String { get }
   @objc var previewImage: Foundation.URL { get }
@@ -14,7 +15,7 @@ import UIKit
   @objc var localURL: Foundation.URL? { get set }
 }
 public typealias DownloadEffectRequestId = Swift.UInt
-extension UInt {
+extension Swift.UInt {
   public static var invalid: BanubaARCloudSDK.DownloadEffectRequestId {
     get
   }
@@ -30,6 +31,5 @@ extension UInt {
   @objc public func downloadArEffect(_ effect: BanubaARCloudSDK.AREffect, downloadProgress: ((Swift.Double) -> Swift.Void)?, completion: @escaping (Foundation.URL?, Foundation.NSError?) -> Swift.Void) -> BanubaARCloudSDK.DownloadEffectRequestId
   @objc public func cancelDownloadingEffect(withRequestId requestId: BanubaARCloudSDK.DownloadEffectRequestId)
   @objc public static func application(_ application: UIKit.UIApplication, handleEventsForBackgroundURLSession identifier: Swift.String, completionHandler: @escaping () -> Swift.Void)
-  @objc override dynamic public init()
   @objc deinit
 }
