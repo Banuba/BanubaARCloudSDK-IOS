@@ -2,7 +2,7 @@
 
 # Banuba ARCloudSDK. API Reference.
 
-`BanubaTokenStorageSDK` allows you to store your mask effects at server side. Sample integration is [here](https://app.gitbook.com/o/aA7b4CF3LLQIe3mrRHNn/s/k2cNUcDkN2oIE0fKtWIu/platforms/ios/api-samples/banuba-arcloudsdk-api-sample)
+`ARCloudSDK` allows you to store your mask effects at server side. Sample integration is [here](https://app.gitbook.com/o/aA7b4CF3LLQIe3mrRHNn/s/k2cNUcDkN2oIE0fKtWIu/platforms/ios/api-samples/banuba-arcloudsdk-api-sample)
 
 ## `BanubaARCloud` is the main entity of ARCloudSDK.
 
