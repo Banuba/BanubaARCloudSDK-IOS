@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/BanubaARCloudSDK-Swift.h</key>
 		<data>
-		zUoXVAePP3mjRbEcs3XZgVpuZ5Q=
+		G3TNcs74m6tmSMLoiOUj13hg0sc=
 		</data>
 		<key>Headers/BanubaARCloudSDK.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		B/+RAwyGWD83z057hJ0ChkYtiik=
+		mlkpDz/WBKKEt3gGckiSQr6xWgs=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -30,35 +30,35 @@
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		8+3CfiJ9KPFHqDNoV6YhTBbIpjQ=
+		ynZk4hk/9WOil7DQCfvZssASMfk=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		+7mDImwJRzuytyZVDdqHlglddEw=
+		Rt8ZQRc+eCGXaf9JgdywJ+fGses=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		So3p5fYDTnAVUuSGeJTJ4Rtq+MY=
+		Hg7VWVjxFgJHhmE1RqCwjK92R2M=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		RXEpGlW16ZpHFQZYQk0O+Qs2hQ0=
+		wCdSZpzB0a1HHcZLybvyol26YqQ=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		nyi8o9V4kyJ5PzSjkp/o8EDfiaw=
+		XxXNt9ad68VY4il6LMIbFqtsbB4=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		70vy6HRZxa5jUTV4YpHSI93emQs=
+		Zx84xNHDkKNsQtK7aaN0ryJLnYY=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		6WSAKreskQRtFExJtJHjZHmCWyw=
+		sD8z7zpyu3rUEKliy7KkSbgXiMY=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		EcebngG9p5lQWkoSLyiMsVKI+V8=
+		9uk/Lo96pFs6Y9v0CR7BtKrBfus=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			addErRlw5iAzCz65KuGM6VoyyDeUAZiJoxute2pwYTY=
+			0LSy28I7Q6JfwAG5dJVNW4WF07ouIZMlq4V6fMA3b+k=
 			</data>
 		</dict>
 		<key>Headers/BanubaARCloudSDK.h</key>
@@ -106,56 +106,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BRphmQ9sNeq1BWJtIK2pgTB4IsjM52bLPy/bkWaWsEM=
+			lGgMINRVInhi1hLvVuWxelX+PbjzpNct7kvdWKD9Yxo=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TACftnB8NoZ+K45LC0UrZtQMi5OmK2RIhP2TiKarRu0=
+			YJXJVz2m50DyZ9S7mXX2gnu8C1ul3VPdNkb8ox++DuM=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ov89osdBY9wRDZoDa/mmCFIq1wZxv+5EB1Dd1x7F3VQ=
+			+PiXn2QaAPmbIYx1yf4rowJLt11F6dtC2Abghv0bzjE=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			chi1mK1zA0WS0OGS+uQ+VRMcXB6hjgJbfVihvOobOCM=
+			dZ2/UQJ/zqYaEWU22jbP7+8pS7WOMgpjl97S5rz6uUs=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b85Jn8LW7n1ePoiA2BX6zyi6d6Z9cfgf+sDAoCnyt/E=
+			nCabXVhA4Bj1YbTdSJRzKify3Cgd83nT1yPnMHnPI5Y=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cz8qp5KiIdXEOM7yWfMRdWK4r0o3N24PjFzpexdhagw=
+			7OAqsyyTSt8GTcK8tKyP6VVQ+35OcF2S/XTumUzVA2U=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tnwzH/GJmROGYB9jzfT+pIuDOVdr9ZqnQujH2lwnIhE=
+			lAKwReHenlcpea2qHulSSdwump5VJT4VbK+x9HNXvII=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nqfUbOT+jnE5sxN7zcbIPEAY+kSii7sYjLswD8FkGd8=
+			X1LEgI2ndm/DLIajABm5ZMYhWu/w4zeZDgVkPiaUkdA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
