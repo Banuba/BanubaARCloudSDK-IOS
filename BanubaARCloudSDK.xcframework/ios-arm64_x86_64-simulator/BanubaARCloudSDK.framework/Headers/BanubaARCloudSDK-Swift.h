@@ -241,7 +241,7 @@ SWIFT_CLASS("_TtC16BanubaARCloudSDK13BanubaARCloud")
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSURL * _Nonnull effectsFolderURL;)
 + (NSURL * _Nonnull)effectsFolderURL SWIFT_WARN_UNUSED_RESULT;
 /// Initialize AR cloud client with UUID string.
-/// \param arCloudUrl the url that is used to provide effects.
+/// \param effectsUrl the effectsUrl is used to provide effects.
 ///
 /// \param embeddedEffectURLs the list of url to folders which store embedded effects, effects from these folders will be displayed as downloaded.
 ///
@@ -509,7 +509,7 @@ SWIFT_CLASS("_TtC16BanubaARCloudSDK13BanubaARCloud")
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSURL * _Nonnull effectsFolderURL;)
 + (NSURL * _Nonnull)effectsFolderURL SWIFT_WARN_UNUSED_RESULT;
 /// Initialize AR cloud client with UUID string.
-/// \param arCloudUrl the url that is used to provide effects.
+/// \param effectsUrl the effectsUrl is used to provide effects.
 ///
 /// \param embeddedEffectURLs the list of url to folders which store embedded effects, effects from these folders will be displayed as downloaded.
 ///

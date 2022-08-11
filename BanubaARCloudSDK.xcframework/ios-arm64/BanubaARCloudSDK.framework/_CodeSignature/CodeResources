@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/BanubaARCloudSDK-Swift.h</key>
 		<data>
-		pK5UtaaVYtKzx30liYG2wpOmXDI=
+		nkLNpoSSmKgNaw8jY8i3OxjtqYs=
 		</data>
 		<key>Headers/BanubaARCloudSDK.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4TAkCbLVsd/A3lzohno+CP7qYCA=
+		jsJa2xPhxK9xZvDsutfIThcS5Ew=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		Sha45fJDqFPP7vKiWO0XZQDS224=
+		Pz1lyHOw4Peik3OuGGrcB1ypKi4=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		NPAOfpRF+Vm+HCjYyapNtS+rQ2w=
+		lOfvw4XJk2+Pv1PXDv9hIyTi7Jo=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		8jn98NI9aFDHOjOJBvAJ+1qwrfM=
+		g2cvwUhne7z12Espey7/Dmu8dA0=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		bv1ewqLLHdxPW0HE8EFUeKO0eak=
+		Zc78Uy5ZHFZU1+lXklMJGiEGC+k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -55,7 +55,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cGxU0nDAdTgEs+3RI2A4Xf/NoSSDmt3cfKhVHMnR9Jc=
+			pUhJgKHHpkqjDJDLnJ/787CMFHgasc/3YWL634buPeA=
 			</data>
 		</dict>
 		<key>Headers/BanubaARCloudSDK.h</key>
@@ -90,28 +90,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3SC+/YYOgehbQh75x2o+QcNES0NOguNKA/fHF5GQxcc=
+			k7BOJqR/szvPiEDlXsX+Q4qP1k5VFnYQQd/2OiGABHI=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SJGEH7t4kL604x6Xj0nqxaiD9GVpKf+sULaozpsDmvg=
+			vuJqdy1q5UvC9zhcPUYAugUnYrdDaxDk1e3LRx36pPg=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ebe4QmaLIQv3Adc6h6nqwxB0joSFets6erdoENkzUh8=
+			ff8ETLhrkrcYi/0X1cjudOurjhcGn2tb1BwmenRlaGg=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XULmbHgRPerRU6tP/H8QnV/Y97TmLUj77lK21NOuV4o=
+			mLsd2szLHcJU0coHxPn9EvIFp49vSK3GhUvM9rgf9s0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
