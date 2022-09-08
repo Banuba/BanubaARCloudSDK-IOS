@@ -22,8 +22,12 @@
 ```swift
   /// Initialize AR cloud client with UUID string.
   /// - Parameters:
-  ///   - effectsUrl: the effectsUrl is used to provide effects.
-  @objc public required init(arCloudUrl: String)
+  ///   - arCloudUrl: the url that is used to provide effects.
+  ///   - embeddedEffectURLs: the list of url to folders which store embedded effects, effects from these folders will be displayed as downloaded.
+  @objc public required init(
+    arCloudUrl: String,
+    embeddedEffectURLs: [URL]? = nil
+  )
 ```
 
 ### Get AR effects list
