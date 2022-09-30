@@ -6,6 +6,6 @@ framework module BanubaARCloudSDK {
 }
 
 module BanubaARCloudSDK.Swift {
-    header "BanubaARCloudSDK-Swift.h"
-    requires objc
+  header "BanubaARCloudSDK-Swift.h"
+  requires objc
 }
