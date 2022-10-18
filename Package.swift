@@ -3,7 +3,7 @@ import PackageDescription
 let package = Package(
   name: "BanubaARCloudSDK",
   platforms: [
-    .iOS(.v11)
+    .iOS(.v12)
   ],
   products: [
     .library(
