@@ -10,27 +10,15 @@
 		</data>
 		<key>Headers/BanubaARCloudSDK.h</key>
 		<data>
-		VbmAO7I7XoRiyXOOZY7TmcpAnKw=
-		</data>
-		<key>Headers/SSZipArchive.h</key>
-		<data>
-		LgBuYJycdgDQ85rzQCEklZgpmWs=
-		</data>
-		<key>Headers/SSZipCommon.h</key>
-		<data>
-		GCJZEKmID62r9c8HV206IWHa8Ts=
+		zdOuogVoSUr7r8uFJlHUF+W28vg=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Cg+tqYjSLNEOL/EYUCVeTmJlfWI=
-		</data>
-		<key>LICENSE</key>
-		<data>
-		F6LTl+RBugQ3i5tHJ0u0h632bEQ=
+		WlmUuG0r+5IlmHTee/C3QI58zRA=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		SD+9guPjf6/eFPTuh9g1SFos9C4=
+		T9atIwAsftw83YpXQSugvCT5U50=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -46,7 +34,7 @@
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ohLCzm2xbe8gdqIVs60z0mdHCA4=
+		WcWLVHLJg1DbJDeGAsGASb7GfiI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -66,35 +54,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hVE86/HlprZPd0SGyO5RbyT2LVuv1CZn7QLbijQ/sJ0=
-			</data>
-		</dict>
-		<key>Headers/SSZipArchive.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xJosD0OWl1apgv+HmrNs1rYP6AnMeBsJjnpyy8fKiTk=
-			</data>
-		</dict>
-		<key>Headers/SSZipCommon.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			odGRHXoAxl6RCtuCEyO9dPCeHx3W6GhM/YlvjPJlxsA=
-			</data>
-		</dict>
-		<key>LICENSE</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Z1GBwD/BMCochVTAD3vpu0IMXbydzCATQzzsFEQT3gM=
+			TThc7eavKk6ueh/TvYcsFWGrWm9AimgbIgIBYNUPhHg=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wwvt1kyOKvmg4bFxZKeTpitQPPLA9M+pM8R4Vn6CAfw=
+			Wn9Fvxm26UV8X+PjdruA/seVdtBPggzkuewH7weGVos=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -122,7 +89,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zUgGJO7u7+Te7RCbBupia0p34IvpAqdz6XBxmmKb6Wg=
+			6/Yz/dbLL7op1DmZ6zwGMwGdMVfEN3Wh4+1V6B2JTOU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
