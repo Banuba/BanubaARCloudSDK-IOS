@@ -1454,203 +1454,203 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
       "kind": "StringLiteral",
       "offset": 1384,
       "length": 9,
       "value": "\"Preview\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
       "kind": "StringLiteral",
       "offset": 1418,
       "length": 5,
       "value": "\"URL\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
       "kind": "StringLiteral",
       "offset": 1440,
       "length": 6,
       "value": "\"ETag\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
       "kind": "StringLiteral",
       "offset": 1467,
       "length": 10,
       "value": "\"localURL\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
       "kind": "StringLiteral",
       "offset": 1495,
       "length": 7,
       "value": "\"order\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
       "kind": "StringLiteral",
       "offset": 1519,
       "length": 6,
       "value": "\"type\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
       "kind": "StringLiteral",
       "offset": 1384,
       "length": 9,
       "value": "\"Preview\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
       "kind": "StringLiteral",
       "offset": 1418,
       "length": 5,
       "value": "\"URL\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
       "kind": "StringLiteral",
       "offset": 1440,
       "length": 6,
       "value": "\"ETag\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
       "kind": "StringLiteral",
       "offset": 1467,
       "length": 10,
       "value": "\"localURL\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
       "kind": "StringLiteral",
       "offset": 1495,
       "length": 7,
       "value": "\"order\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
       "kind": "StringLiteral",
       "offset": 1519,
       "length": 6,
       "value": "\"type\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/EffectsStorageService.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/EffectsStorageService.swift",
       "kind": "BooleanLiteral",
       "offset": 3265,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/ARService.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/ARService.swift",
       "kind": "IntegerLiteral",
       "offset": 798,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/BanubaARCloudSDK.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/BanubaARCloudSDK.swift",
       "kind": "StringLiteral",
       "offset": 351,
       "length": 13,
       "value": "\"BanubaARCloudSDK.BanubaARCloud\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
       "kind": "StringLiteral",
       "offset": 459,
       "length": 48,
       "value": "\"com.banuba.ar-cloud-sdk.networkService.request\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
       "kind": "StringLiteral",
       "offset": 631,
       "length": 13,
       "value": "\"Invalid URL\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
       "kind": "StringLiteral",
       "offset": 667,
       "length": 17,
       "value": "\"Invalid Request\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
       "kind": "StringLiteral",
       "offset": 702,
       "length": 12,
       "value": "\"Wrong Data\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
       "kind": "StringLiteral",
       "offset": 741,
       "length": 24,
       "value": "\"No internet connection\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
       "kind": "StringLiteral",
       "offset": 791,
       "length": 42,
       "value": "\"Something went wrong. Please retry later\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
       "kind": "StringLiteral",
       "offset": 856,
       "length": 53,
       "value": "\"You do not have available space to apply the effect\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
       "kind": "StringLiteral",
       "offset": 934,
       "length": 34,
       "value": "\"Sorry, the mask is not available\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
       "kind": "StringLiteral",
       "offset": 1979,
       "length": 41,
       "value": "\"com.banuba.arcloudSdk.backgroundSession\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
       "kind": "Dictionary",
       "offset": 8551,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
       "kind": "Dictionary",
       "offset": 8614,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
       "kind": "Dictionary",
       "offset": 8683,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
       "kind": "Dictionary",
       "offset": 8741,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Update_modules_iOS\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/DownloadEffectIdsContainer.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/DownloadEffectIdsContainer.swift",
       "kind": "Dictionary",
       "offset": 253,
       "length": 3,
