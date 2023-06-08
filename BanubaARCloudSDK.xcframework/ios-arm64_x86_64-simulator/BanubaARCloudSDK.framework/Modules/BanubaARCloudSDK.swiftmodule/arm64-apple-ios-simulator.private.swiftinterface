@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
 // swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name BanubaARCloudSDK
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 @_exported import BanubaARCloudSDK
@@ -28,10 +28,10 @@ extension Swift.UInt {
     @objc get
   }
   @objc required public init(arCloudUrl: Swift.String, embeddedEffectURLs: [Foundation.URL]? = nil)
-  @objc public func getAREffects(completion: @escaping ([BanubaARCloudSDK.AREffect]?, Foundation.NSError?) -> Swift.Void)
-  @objc public func getArEffectPreview(_ effect: BanubaARCloudSDK.AREffect, completion: @escaping (UIKit.UIImage?, Foundation.NSError?) -> Swift.Void)
+  @objc public func getAREffects(completion: @escaping ([any BanubaARCloudSDK.AREffect]?, Foundation.NSError?) -> Swift.Void)
+  @objc public func getArEffectPreview(_ effect: any BanubaARCloudSDK.AREffect, completion: @escaping (UIKit.UIImage?, Foundation.NSError?) -> Swift.Void)
   @discardableResult
-  @objc public func downloadArEffect(_ effect: BanubaARCloudSDK.AREffect, downloadProgress: ((Swift.Double) -> Swift.Void)?, completion: @escaping (Foundation.URL?, Foundation.NSError?) -> Swift.Void) -> BanubaARCloudSDK.DownloadEffectRequestId
+  @objc public func downloadArEffect(_ effect: any BanubaARCloudSDK.AREffect, downloadProgress: ((Swift.Double) -> Swift.Void)?, completion: @escaping (Foundation.URL?, Foundation.NSError?) -> Swift.Void) -> BanubaARCloudSDK.DownloadEffectRequestId
   @objc public func cancelDownloadingEffect(withRequestId requestId: BanubaARCloudSDK.DownloadEffectRequestId)
   @objc public static func application(_ application: UIKit.UIApplication, handleEventsForBackgroundURLSession identifier: Swift.String, completionHandler: @escaping () -> Swift.Void)
   @objc deinit

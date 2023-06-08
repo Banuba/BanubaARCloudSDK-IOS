@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/BanubaARCloudSDK-Swift.h</key>
 		<data>
-		Aq9wuPke96bVxAFWiF9Y6QkOA8I=
+		ZAWM16bzHkXFsZku7lQafY4OcWo=
 		</data>
 		<key>Headers/BanubaARCloudSDK.h</key>
 		<data>
@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		B7HtnToLk9ZidUWlJ0RlKlmJ8oU=
+		AdTCdzsiUBIoSOmQfoK3c3NjAlg=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		t/FPpeqdRa8FjqrUJqCrHRUpKdM=
+		JdJk1lDX9YrqGw0qrwrs0YYKFyM=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		J6eROa529dzR1NouYpoDnW06RGg=
+		L/eJLMTtsg1pPbClPs1L8/vDQ98=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		O+VU2KKc3Gttap0jnL5p1HPA2bg=
+		tf7zWhOoV3LzxIsFcZOuJONfczQ=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		J6eROa529dzR1NouYpoDnW06RGg=
+		L/eJLMTtsg1pPbClPs1L8/vDQ98=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hrv13zw/ycaqE0GME8WOMY7RiaE=
+		GIkbCNQYpO4F6YZ2V+Yd2+htOyk=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		t/FPpeqdRa8FjqrUJqCrHRUpKdM=
+		JdJk1lDX9YrqGw0qrwrs0YYKFyM=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		NDxutBl+QSHqIv8/OoRajtN+MCI=
+		K0oSczdNrcm6mM2nURinnufa6no=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		VcFz6fBtBCTqhyidJi/q2Danhic=
+		JsYDJ0SSNnkc91IxS8wjfnQXSRM=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		NDxutBl+QSHqIv8/OoRajtN+MCI=
+		K0oSczdNrcm6mM2nURinnufa6no=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		SlPJfKiM48M/F6udGIU+J9Q+nP0=
+		9ju2o06TjEEd9d1RBqSe9TwNQ5w=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7QUV5oalfrlUoNeZy+pp5rDS87eYi2YJS4aokOeTzBI=
+			MtD3+8/5KMWnQzj6tuv/QnBATq6KbzjxvDb7iwnWhyM=
 			</data>
 		</dict>
 		<key>Headers/BanubaARCloudSDK.h</key>
@@ -81,70 +81,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SpnxvaHwxR9aJ5xPrrLQub365eO7iriINYmjWMXTnac=
+			Cozf2xlZPJRWeiHgTC7NiCjNftiEhMY5Vtz3RWb++pE=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oog7NDWfcMnoEqG5yYMzNnZ+DTTJkVgPZuMcLbONU6M=
+			dL4f+GsAOuRERbgahq/Yrka7H6O2nhq5Pih3o67eNac=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AdXZZ1Di9P/YKMmnLVouuty4rEZ+Pdw/sKri1H606fA=
+			Ij7BUYG0muMJFtJ3DYxWlSmYZynO9q2xG9Q9ERK09Kg=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oog7NDWfcMnoEqG5yYMzNnZ+DTTJkVgPZuMcLbONU6M=
+			dL4f+GsAOuRERbgahq/Yrka7H6O2nhq5Pih3o67eNac=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RtEnOY9IKzhbmlSdNQsdiSOS9hhdupp8pb2dVJGXgGo=
+			r/kZ+9DNBfUs3blK0kAgNgRkjz31x1w4qs74AqBcUxA=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SpnxvaHwxR9aJ5xPrrLQub365eO7iriINYmjWMXTnac=
+			Cozf2xlZPJRWeiHgTC7NiCjNftiEhMY5Vtz3RWb++pE=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			61Z8JMCd2mYHpdI+c/+AN+uibwGuU0o+fQ+gLROo+bY=
+			97593v2ge3/CyiU2URomEMTnZqj6w3IldrPjqYvOF8g=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8sXctfk2yaovtybhpz1XkHDcI/jJa/iCDPKiTeBw/ck=
+			ytXRiO9hLMVvRaxwZ1QJzx2rAM/eyrQPrdI2ikYVB6I=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			61Z8JMCd2mYHpdI+c/+AN+uibwGuU0o+fQ+gLROo+bY=
+			97593v2ge3/CyiU2URomEMTnZqj6w3IldrPjqYvOF8g=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F01HIZaJNKLvSV14MTlgpwf4dXiINs83Y1Wp7SXJyFc=
+			QtzM+YwWz2MobrDdW5IH19bNxk5moiQHIzhta9/2nyg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
