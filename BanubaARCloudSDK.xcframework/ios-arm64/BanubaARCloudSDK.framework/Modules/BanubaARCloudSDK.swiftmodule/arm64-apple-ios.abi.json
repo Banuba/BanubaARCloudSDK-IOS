@@ -1666,71 +1666,92 @@
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/EffectsStorageService.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3738,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/EffectsStorageService.swift",
       "kind": "StringLiteral",
-      "offset": 4179,
+      "offset": 3918,
+      "length": 97,
+      "value": "\"Embedded effects folder doesn't exist. Trying to read folder at path \""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/EffectsStorageService.swift",
+      "kind": "StringLiteral",
+      "offset": 4013,
+      "length": 2,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/EffectsStorageService.swift",
+      "kind": "StringLiteral",
+      "offset": 4458,
       "length": 99,
       "value": "\"Error with reading embedded effects in \""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/EffectsStorageService.swift",
       "kind": "StringLiteral",
-      "offset": 4239,
+      "offset": 4518,
       "length": 1,
       "value": "\". Error message: \""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/EffectsStorageService.swift",
       "kind": "StringLiteral",
-      "offset": 4277,
+      "offset": 4556,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/EffectsStorageService.swift",
       "kind": "Array",
-      "offset": 4387,
+      "offset": 4666,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/EffectsStorageService.swift",
       "kind": "StringLiteral",
-      "offset": 5234,
+      "offset": 5513,
       "length": 94,
       "value": "\"Error with reading effects in \""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/EffectsStorageService.swift",
       "kind": "StringLiteral",
-      "offset": 5289,
+      "offset": 5568,
       "length": 1,
       "value": "\". Error message: \""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/EffectsStorageService.swift",
       "kind": "StringLiteral",
-      "offset": 5327,
+      "offset": 5606,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/EffectsStorageService.swift",
       "kind": "StringLiteral",
-      "offset": 5815,
+      "offset": 6094,
       "length": 27,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/EffectsStorageService.swift",
       "kind": "StringLiteral",
-      "offset": 5841,
+      "offset": 6120,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/EffectsStorageService.swift",
       "kind": "BooleanLiteral",
-      "offset": 6079,
+      "offset": 6358,
       "length": 5,
       "value": "false"
     },
