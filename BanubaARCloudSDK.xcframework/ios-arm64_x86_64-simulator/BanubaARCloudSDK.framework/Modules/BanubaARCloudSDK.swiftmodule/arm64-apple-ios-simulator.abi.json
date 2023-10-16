@@ -1442,13 +1442,6 @@
           },
           {
             "kind": "Conformance",
-            "name": "CKRecordValueProtocol",
-            "printedName": "CKRecordValueProtocol",
-            "usr": "s:8CloudKit21CKRecordValueProtocolP",
-            "mangledName": "$s8CloudKit21CKRecordValueProtocolP"
-          },
-          {
-            "kind": "Conformance",
             "name": "_FormatSpecifiable",
             "printedName": "_FormatSpecifiable",
             "children": [
@@ -1468,6 +1461,13 @@
             ],
             "usr": "s:7SwiftUI18_FormatSpecifiableP",
             "mangledName": "$s7SwiftUI18_FormatSpecifiableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CKRecordValueProtocol",
+            "printedName": "CKRecordValueProtocol",
+            "usr": "s:8CloudKit21CKRecordValueProtocolP",
+            "mangledName": "$s8CloudKit21CKRecordValueProtocolP"
           }
         ]
       }
