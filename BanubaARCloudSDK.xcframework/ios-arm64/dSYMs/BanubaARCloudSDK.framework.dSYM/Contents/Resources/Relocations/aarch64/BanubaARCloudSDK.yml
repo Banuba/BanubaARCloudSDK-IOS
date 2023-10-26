@@ -3,7 +3,7 @@ triple:          'arm64-apple-darwin'
 binary-path:     '/Users/user/Library/Developer/Xcode/DerivedData/VideoEditorSDKSandbox-dvbqgkbyffpndzghkkiwcffgdpts/Build/Intermediates.noindex/ArchiveIntermediates/BanubaARCloudSDK/InstallationBuildProductsLocation/Library/Frameworks/BanubaARCloudSDK.framework/BanubaARCloudSDK'
 relocations:
   - { offsetInCU: 0x34, offset: 0x70766, size: 0x8, addend: 0x0, symName: _BanubaARCloudSDKVersionString, symObjAddr: 0x0, symBinAddr: 0x1E930, symSize: 0x0 }
-  - { offsetInCU: 0x69, offset: 0x7079B, size: 0x8, addend: 0x0, symName: _BanubaARCloudSDKVersionNumber, symObjAddr: 0x40, symBinAddr: 0x1E970, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x7079B, size: 0x8, addend: 0x0, symName: _BanubaARCloudSDKVersionNumber, symObjAddr: 0x48, symBinAddr: 0x1E978, symSize: 0x0 }
   - { offsetInCU: 0x5C, offset: 0x7080D, size: 0x8, addend: 0x0, symName: '_$s16BanubaARCloudSDK15EffectsResponseC10CodingKeys33_FF083717593E5D945674B321CCB8A8F0LLOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0x0, symBinAddr: 0x8000, symSize: 0x8 }
   - { offsetInCU: 0xB0, offset: 0x70861, size: 0x8, addend: 0x0, symName: '_$s16BanubaARCloudSDK15EffectsResponseC10CodingKeys33_FF083717593E5D945674B321CCB8A8F0LLOSHAASH9hashValueSivgTW', symObjAddr: 0x8, symBinAddr: 0x8008, symSize: 0x40 }
   - { offsetInCU: 0x193, offset: 0x70944, size: 0x8, addend: 0x0, symName: '_$s16BanubaARCloudSDK15EffectsResponseC10CodingKeys33_FF083717593E5D945674B321CCB8A8F0LLOSHAASH4hash4intoys6HasherVz_tFTW', symObjAddr: 0x48, symBinAddr: 0x8048, symSize: 0x24 }
