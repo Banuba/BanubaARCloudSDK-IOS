@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/BanubaARCloudSDK-Swift.h</key>
 		<data>
-		IfS1I1Cv5tzeLKmT6DFPM0sfB+4=
+		3prDAvdBI0ZQCs+H2kr+H6k2oSs=
 		</data>
 		<key>Headers/BanubaARCloudSDK.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hLnp/614YV5DqSqoJoRjLraopuk=
+		uKTBe7l9d5imm0fVv+X1U9ZO/yQ=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		JUqMYMlCEDMpEsPo2SxHh479htA=
+		RnaHk5zyJHKOk6tNJy553y1WXfs=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		9fFDu05qen0PGwih6rOBOjAUXkE=
+		mEqjKZijuvcL6XVr+GyF1on4Ht4=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		JUqMYMlCEDMpEsPo2SxHh479htA=
+		RnaHk5zyJHKOk6tNJy553y1WXfs=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		sBRkMr+hpEHCa4OCj5IG8KT5xyw=
+		kWwZeznz7d8/3B3vLvRvWG0Hh1o=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,19 +42,19 @@
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		5Nc2Y9Q4ST/Ar0gNjczJFoQYFO4=
+		tyd0J2FhkiIcWFhDlQD/OBLi6mo=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		nS5C4Oj+FJ/OyBttspfr8bTwODQ=
+		Y96eIZ0XkrwV73YmcJW8rZFBfYo=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		5Nc2Y9Q4ST/Ar0gNjczJFoQYFO4=
+		tyd0J2FhkiIcWFhDlQD/OBLi6mo=
 		</data>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0VoKAVwbNi4X54VkyzKx0BS9Enw=
+		8PymBKBqtBIuagL2cFts/zbX118=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xN7PuwnPC6vOhvCNCITZRolGmqy/xZC4daIjVY0sSrA=
+			gHP2a7N6BP2LeoXDkpzzNRoA9oENmkoIRe/cEmOtEeY=
 			</data>
 		</dict>
 		<key>Headers/BanubaARCloudSDK.h</key>
@@ -92,28 +92,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MTiGOW7IUdChXXutGUUu3hGeVH6hnCCVWk1vYR03LbU=
+			km+w5jIId1PBnIkp/rzf3PE+hnhGu6X6Kv71wiPvCD0=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GE6anIWus4AL6i1MpcQXQQzsD0PqQCdwqGPa31sOVN4=
+			JFrVIaFmJawlIpFnyBi9EySgCQox2eJOvjsI8fK2mqo=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MTiGOW7IUdChXXutGUUu3hGeVH6hnCCVWk1vYR03LbU=
+			km+w5jIId1PBnIkp/rzf3PE+hnhGu6X6Kv71wiPvCD0=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ibrYpznmOxH2gHCqrV3xXqcT/5IX5Agj7p3JZUsNI90=
+			HKUlUnsEomOS9V/NgsEsmRMQEZrQyYpejurGjRHjqVE=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -127,28 +127,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pi42l9tWZ8OI/3P+nA/JCsQOZBqbJZ8n4xzfcWqin1k=
+			T1Ix94fTTDeA3VetWAiX9LFws9JZydVaONQPFcc8bfA=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U0H8GFKDHR2d2GEGeYwW+Y0dkbbMJ+19xK/bapA/XHI=
+			sL2VQlqX1Oh21kduDHeqbb6OSS/e3/L5y+Dh177peO4=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pi42l9tWZ8OI/3P+nA/JCsQOZBqbJZ8n4xzfcWqin1k=
+			T1Ix94fTTDeA3VetWAiX9LFws9JZydVaONQPFcc8bfA=
 			</data>
 		</dict>
 		<key>Modules/BanubaARCloudSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M93+LJyTN37H2neH/IdLFXiMM/g5AR9ePaefVTLIPvA=
+			meuh0oJJMq05X2HJcsxfSXGnu3HabEgYkuK1naMkuyA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
