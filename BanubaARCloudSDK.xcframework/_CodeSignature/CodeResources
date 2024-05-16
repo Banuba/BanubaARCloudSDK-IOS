@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/BanubaARCloudSDK.framework/BanubaARCloudSDK</key>
 		<data>
-		n7oxmkPB5sdmJPhm5/hgPU64Mxg=
+		oBtbV6+v3JzMcfv0obih0LX3i3g=
 		</data>
 		<key>ios-arm64/BanubaARCloudSDK.framework/Headers/BanubaARCloudSDK-Swift.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>ios-arm64/BanubaARCloudSDK.framework/Info.plist</key>
 		<data>
-		zsHMcS/6OqDUWLXKmM97Jxbu0Qs=
+		QLo2fc1EiTOiCbsqQl3O4xTsNTw=
 		</data>
 		<key>ios-arm64/BanubaARCloudSDK.framework/Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -46,23 +46,23 @@
 		</data>
 		<key>ios-arm64/BanubaARCloudSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		8isM2alldL8jdfF5QOlzwxiIfn0=
+		ZqmHnKC5k/N4Z4bmfBJf3C65vNg=
 		</data>
 		<key>ios-arm64/dSYMs/BanubaARCloudSDK.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		MllL1BCM4kT5FmaeZoKVBqpbNi0=
+		28XaPTGFJa5umKT2NIFLS3QdFTc=
 		</data>
 		<key>ios-arm64/dSYMs/BanubaARCloudSDK.framework.dSYM/Contents/Resources/DWARF/BanubaARCloudSDK</key>
 		<data>
-		iwlv1Vbgfcz1pV4B/7y/lKxV50U=
+		HNSztM3Y5dFGC7M5ZhwfLc0fj1g=
 		</data>
 		<key>ios-arm64/dSYMs/BanubaARCloudSDK.framework.dSYM/Contents/Resources/Relocations/aarch64/BanubaARCloudSDK.yml</key>
 		<data>
-		91G07LJO2in9m6fUKS/gZ5jqCL0=
+		gYWJnbX9y2nlzjG7srSoFMz5U3w=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaARCloudSDK.framework/BanubaARCloudSDK</key>
 		<data>
-		c1glKbqt40c+TqTsT1pnHly0BHA=
+		CV/MHpA6u22SXvsVRn8TuTGEosQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaARCloudSDK.framework/Headers/BanubaARCloudSDK-Swift.h</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaARCloudSDK.framework/Info.plist</key>
 		<data>
-		/uYN9XeW7TRj80+KRhlErzztLYc=
+		1ozzLchkGWr/w0Hx6msJQ8nvL7w=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaARCloudSDK.framework/Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -118,23 +118,23 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaARCloudSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		whzFJW2sfYdRX6tM2MKbJh/WjgA=
+		G9xeRnz1mdGD/8M3Hd/XMj4gI8s=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaARCloudSDK.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		MllL1BCM4kT5FmaeZoKVBqpbNi0=
+		28XaPTGFJa5umKT2NIFLS3QdFTc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaARCloudSDK.framework.dSYM/Contents/Resources/DWARF/BanubaARCloudSDK</key>
 		<data>
-		tkVM4Tq1yurYBWQ+TimPHAiNPs8=
+		qYzlB6q4/KH36Gku8yZ5Xjd2vtk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaARCloudSDK.framework.dSYM/Contents/Resources/Relocations/aarch64/BanubaARCloudSDK.yml</key>
 		<data>
-		rOkeUeiCcxfjtvFjduMt3hDYSNE=
+		MHyDJ9Aj02W3H/lehJ1kpWW2ojg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaARCloudSDK.framework.dSYM/Contents/Resources/Relocations/x86_64/BanubaARCloudSDK.yml</key>
 		<data>
-		mYQ7LiKRoAtOBSYO219bfdefnS0=
+		ttsyG+XbsVEHD2mpB0FEBW6mF9I=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -143,11 +143,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n7oxmkPB5sdmJPhm5/hgPU64Mxg=
+			oBtbV6+v3JzMcfv0obih0LX3i3g=
 			</data>
 			<key>hash2</key>
 			<data>
-			yBMI53lkNxl3sWsrVXeH0yqpQbSNabrpU1/P1NtUBos=
+			jrGNXNyqJW04l3PhDQyezTe8FODTu4ByLNQ0LZpAslg=
 			</data>
 		</dict>
 		<key>ios-arm64/BanubaARCloudSDK.framework/Headers/BanubaARCloudSDK-Swift.h</key>
@@ -176,11 +176,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zsHMcS/6OqDUWLXKmM97Jxbu0Qs=
+			QLo2fc1EiTOiCbsqQl3O4xTsNTw=
 			</data>
 			<key>hash2</key>
 			<data>
-			AydLWfQsA35R4sA8MAhhj7JgqV6WuvgrGezGx0Ac9R8=
+			ET1bax8n7eZmByD1yppHgMVC18a0a4veheer76U9PHY=
 			</data>
 		</dict>
 		<key>ios-arm64/BanubaARCloudSDK.framework/Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -253,55 +253,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8isM2alldL8jdfF5QOlzwxiIfn0=
+			ZqmHnKC5k/N4Z4bmfBJf3C65vNg=
 			</data>
 			<key>hash2</key>
 			<data>
-			JjpTwtLfpdOnftxb8qNyXjmbtTLbyE7j6ADOYDzSwg0=
+			7pV3oNfQexrihNWb1A2DsctUYs951LwV2hvpgD418ac=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/BanubaARCloudSDK.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MllL1BCM4kT5FmaeZoKVBqpbNi0=
+			28XaPTGFJa5umKT2NIFLS3QdFTc=
 			</data>
 			<key>hash2</key>
 			<data>
-			7edwnkIQLl+0XvKZVKI4VvoboEgAl9E4rVfa8Xuh+FE=
+			+XKT42vm3EUUWmwdzI/wU4x+g68m69wh0AlV0CKLnTM=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/BanubaARCloudSDK.framework.dSYM/Contents/Resources/DWARF/BanubaARCloudSDK</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iwlv1Vbgfcz1pV4B/7y/lKxV50U=
+			HNSztM3Y5dFGC7M5ZhwfLc0fj1g=
 			</data>
 			<key>hash2</key>
 			<data>
-			PjSh5X4MqJ5NLOOfCg6TSx/KXhFHhTTyTticPMlzSMI=
+			R0defYVgdxLfoyKcuyexGou0HA7zZPP0cBZBeaC6rN0=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/BanubaARCloudSDK.framework.dSYM/Contents/Resources/Relocations/aarch64/BanubaARCloudSDK.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			91G07LJO2in9m6fUKS/gZ5jqCL0=
+			gYWJnbX9y2nlzjG7srSoFMz5U3w=
 			</data>
 			<key>hash2</key>
 			<data>
-			v4Mu+F2IFAIWoVLzEHNVoAbq6n30aPtdaNbzYG6WofA=
+			gCMVpAlOzz+O5f6WiTBJ1z0KQWCxBi1ZrH2B3hSKTtg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BanubaARCloudSDK.framework/BanubaARCloudSDK</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c1glKbqt40c+TqTsT1pnHly0BHA=
+			CV/MHpA6u22SXvsVRn8TuTGEosQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			vplBMqAupmq1wWCT8bYZnIj/2DSErzohvuP2dIqQ7Io=
+			WGe9oDfmZALhUMc0/yOuJp4OlzzXsNUS04+JVRSpslk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BanubaARCloudSDK.framework/Headers/BanubaARCloudSDK-Swift.h</key>
@@ -330,11 +330,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/uYN9XeW7TRj80+KRhlErzztLYc=
+			1ozzLchkGWr/w0Hx6msJQ8nvL7w=
 			</data>
 			<key>hash2</key>
 			<data>
-			aILK+TqCpJNsR61qaWC2G/bDuXfwUHxEdN49pm0pkZ4=
+			Oo26XjyZXJgJcWbu2XU4ynTchy+pqDbluNTIoDUVSQo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BanubaARCloudSDK.framework/Modules/BanubaARCloudSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -451,55 +451,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			whzFJW2sfYdRX6tM2MKbJh/WjgA=
+			G9xeRnz1mdGD/8M3Hd/XMj4gI8s=
 			</data>
 			<key>hash2</key>
 			<data>
-			XGkSrFwa07exbaxLCkY7hyXqYipboZ8j5rtJ/uylEYQ=
+			QbcldsQJDSVKDxNA71UyV/n3RORgzeRDTccllByA+YM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaARCloudSDK.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MllL1BCM4kT5FmaeZoKVBqpbNi0=
+			28XaPTGFJa5umKT2NIFLS3QdFTc=
 			</data>
 			<key>hash2</key>
 			<data>
-			7edwnkIQLl+0XvKZVKI4VvoboEgAl9E4rVfa8Xuh+FE=
+			+XKT42vm3EUUWmwdzI/wU4x+g68m69wh0AlV0CKLnTM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaARCloudSDK.framework.dSYM/Contents/Resources/DWARF/BanubaARCloudSDK</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tkVM4Tq1yurYBWQ+TimPHAiNPs8=
+			qYzlB6q4/KH36Gku8yZ5Xjd2vtk=
 			</data>
 			<key>hash2</key>
 			<data>
-			5JuaY3GejEBLidwawVF/X071QFe7FbkYho+2gDDJ8Jo=
+			0X5dsQYa3VIC8kFsbxK226NcYQLOTzbHyTx0LAg/6j8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaARCloudSDK.framework.dSYM/Contents/Resources/Relocations/aarch64/BanubaARCloudSDK.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rOkeUeiCcxfjtvFjduMt3hDYSNE=
+			MHyDJ9Aj02W3H/lehJ1kpWW2ojg=
 			</data>
 			<key>hash2</key>
 			<data>
-			riarKdHKCZloVKJ5x+xC76WW7KEDkpSLLXC6oLfvzaM=
+			wUJacn3p7sMlCvbB8EBVA9n3UVwpm5+JUT0SOYV06GI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaARCloudSDK.framework.dSYM/Contents/Resources/Relocations/x86_64/BanubaARCloudSDK.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mYQ7LiKRoAtOBSYO219bfdefnS0=
+			ttsyG+XbsVEHD2mpB0FEBW6mF9I=
 			</data>
 			<key>hash2</key>
 			<data>
-			IU5GP8B9RF8+Z9U4iL9iE2fr7HgzFzNLA6PJVKIJMTA=
+			t+6zGFOFl3SgYCvGyUrZjotSv4vP5Sgt4i69jcjdsPs=
 			</data>
 		</dict>
 	</dict>
