@@ -24,10 +24,7 @@ extension Swift.UInt {
   }
 }
 @objc public class BanubaARCloud : ObjectiveC.NSObject {
-  @objc public static var effectsFolderURL: Foundation.URL {
-    @objc get
-  }
-  @objc required public init(arCloudUrl: Swift.String, embeddedEffectURLs: [Foundation.URL]? = nil)
+  @objc required public init(arCloudUrl: Swift.String, effectsFolderURL: Foundation.URL)
   @objc public func getAREffects(completion: @escaping ([any BanubaARCloudSDK.AREffect]?, Foundation.NSError?) -> Swift.Void)
   @objc public func getArEffectPreview(_ effect: any BanubaARCloudSDK.AREffect, completion: @escaping (UIKit.UIImage?, Foundation.NSError?) -> Swift.Void)
   @discardableResult

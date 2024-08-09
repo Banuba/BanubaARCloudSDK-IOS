@@ -320,15 +320,12 @@ SWIFT_PROTOCOL("_TtP16BanubaARCloudSDK8AREffect_")
 /// Use this class to access Banuba effects from the cloud.
 SWIFT_CLASS("_TtC16BanubaARCloudSDK13BanubaARCloud")
 @interface BanubaARCloud : NSObject
-/// Storing path to the folder witch storing downloaded effects.
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSURL * _Nonnull effectsFolderURL;)
-+ (NSURL * _Nonnull)effectsFolderURL SWIFT_WARN_UNUSED_RESULT;
 /// Initialize AR cloud client with UUID string.
 /// \param arCloudUrl the url that is used to provide effects.
 ///
-/// \param embeddedEffectURLs the list of url to folders which store embedded effects, effects from these folders will be displayed as downloaded.
+/// \param effectsFolderURL the of the folder where effects will be stored.
 ///
-- (nonnull instancetype)initWithArCloudUrl:(NSString * _Nonnull)arCloudUrl embeddedEffectURLs:(NSArray<NSURL *> * _Nullable)embeddedEffectURLs OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithArCloudUrl:(NSString * _Nonnull)arCloudUrl effectsFolderURL:(NSURL * _Nonnull)effectsFolderURL OBJC_DESIGNATED_INITIALIZER;
 /// Retrieve ar effects from cloud.
 /// Also returns embedded effects which described in embeddedEffectURLs param in init method.
 - (void)getAREffectsWithCompletion:(void (^ _Nonnull)(NSArray<id <AREffect>> * _Nullable, NSError * _Nullable))completion;
@@ -674,15 +671,12 @@ SWIFT_PROTOCOL("_TtP16BanubaARCloudSDK8AREffect_")
 /// Use this class to access Banuba effects from the cloud.
 SWIFT_CLASS("_TtC16BanubaARCloudSDK13BanubaARCloud")
 @interface BanubaARCloud : NSObject
-/// Storing path to the folder witch storing downloaded effects.
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSURL * _Nonnull effectsFolderURL;)
-+ (NSURL * _Nonnull)effectsFolderURL SWIFT_WARN_UNUSED_RESULT;
 /// Initialize AR cloud client with UUID string.
 /// \param arCloudUrl the url that is used to provide effects.
 ///
-/// \param embeddedEffectURLs the list of url to folders which store embedded effects, effects from these folders will be displayed as downloaded.
+/// \param effectsFolderURL the of the folder where effects will be stored.
 ///
-- (nonnull instancetype)initWithArCloudUrl:(NSString * _Nonnull)arCloudUrl embeddedEffectURLs:(NSArray<NSURL *> * _Nullable)embeddedEffectURLs OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithArCloudUrl:(NSString * _Nonnull)arCloudUrl effectsFolderURL:(NSURL * _Nonnull)effectsFolderURL OBJC_DESIGNATED_INITIALIZER;
 /// Retrieve ar effects from cloud.
 /// Also returns embedded effects which described in embeddedEffectURLs param in init method.
 - (void)getAREffectsWithCompletion:(void (^ _Nonnull)(NSArray<id <AREffect>> * _Nullable, NSError * _Nullable))completion;
