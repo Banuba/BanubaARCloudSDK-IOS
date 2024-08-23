@@ -30,6 +30,6 @@ extension Swift.UInt {
   @discardableResult
   @objc public func downloadArEffect(_ effect: any BanubaARCloudSDK.AREffect, downloadProgress: ((Swift.Double) -> Swift.Void)?, completion: @escaping (Foundation.URL?, Foundation.NSError?) -> Swift.Void) -> BanubaARCloudSDK.DownloadEffectRequestId
   @objc public func cancelDownloadingEffect(withRequestId requestId: BanubaARCloudSDK.DownloadEffectRequestId)
-  @objc public static func application(_ application: UIKit.UIApplication, handleEventsForBackgroundURLSession identifier: Swift.String, completionHandler: @escaping () -> Swift.Void)
+  @objc public static func application(_: UIKit.UIApplication, handleEventsForBackgroundURLSession identifier: Swift.String, completionHandler: @escaping () -> Swift.Void)
   @objc deinit
 }

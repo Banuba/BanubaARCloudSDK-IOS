@@ -1580,14 +1580,7 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
       "kind": "Dictionary",
-      "offset": 8638,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
-      "kind": "Dictionary",
-      "offset": 8701,
+      "offset": 8707,
       "length": 3,
       "value": "[]"
     },
@@ -1601,7 +1594,14 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
       "kind": "Dictionary",
-      "offset": 8828,
+      "offset": 8839,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
+      "kind": "Dictionary",
+      "offset": 8897,
       "length": 3,
       "value": "[]"
     },

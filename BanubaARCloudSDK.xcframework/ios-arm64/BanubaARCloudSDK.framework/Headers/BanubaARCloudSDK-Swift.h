@@ -336,7 +336,7 @@ SWIFT_CLASS("_TtC16BanubaARCloudSDK13BanubaARCloud")
 /// Cancel downloading effect with specific request id.
 - (void)cancelDownloadingEffectWithRequestId:(NSUInteger)requestId;
 /// This method needs to be called in the UIApplicationDelegate func application(_ application:, handleEventsForBackgroundURLSession identifier:, completionHandler: @escaping () -> Void).
-+ (void)application:(UIApplication * _Nonnull)application handleEventsForBackgroundURLSession:(NSString * _Nonnull)identifier completionHandler:(void (^ _Nonnull)(void))completionHandler;
++ (void)application:(UIApplication * _Nonnull)_ handleEventsForBackgroundURLSession:(NSString * _Nonnull)identifier completionHandler:(void (^ _Nonnull)(void))completionHandler;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
