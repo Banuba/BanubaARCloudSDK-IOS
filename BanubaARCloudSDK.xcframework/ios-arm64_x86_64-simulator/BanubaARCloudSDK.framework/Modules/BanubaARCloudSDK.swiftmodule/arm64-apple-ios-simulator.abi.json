@@ -579,7 +579,6 @@
             "moduleName": "BanubaARCloudSDK",
             "objc_name": "getAREffectsWithCompletion:",
             "declAttributes": [
-              "Final",
               "AccessControl",
               "ObjC",
               "RawDocComment"
@@ -655,7 +654,6 @@
             "mangledName": "$s16BanubaARCloudSDK0aB0C18getArEffectPreview_10completionyAA8AREffect_p_ySo7UIImageCSg_So7NSErrorCSgtctF",
             "moduleName": "BanubaARCloudSDK",
             "declAttributes": [
-              "Final",
               "AccessControl",
               "ObjC",
               "RawDocComment"
@@ -758,7 +756,6 @@
             "mangledName": "$s16BanubaARCloudSDK0aB0C16downloadArEffect_0D8Progress10completionSuAA8AREffect_p_ySdcSgy10Foundation3URLVSg_So7NSErrorCSgtctF",
             "moduleName": "BanubaARCloudSDK",
             "declAttributes": [
-              "Final",
               "AccessControl",
               "ObjC",
               "DiscardableResult",
@@ -789,7 +786,6 @@
             "moduleName": "BanubaARCloudSDK",
             "objc_name": "cancelDownloadingEffectWithRequestId:",
             "declAttributes": [
-              "Final",
               "AccessControl",
               "ObjC",
               "RawDocComment"
@@ -881,7 +877,6 @@
         "mangledName": "$s16BanubaARCloudSDK0aB0C",
         "moduleName": "BanubaARCloudSDK",
         "declAttributes": [
-          "Final",
           "AccessControl",
           "ObjC",
           "RawDocComment"
@@ -1515,7 +1510,7 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaARCloudSDK\/BanubaARCloudSDK\/BanubaARCloudSDK.swift",
       "kind": "StringLiteral",
-      "offset": 357,
+      "offset": 351,
       "length": 13,
       "value": "\"BanubaARCloudSDK.BanubaARCloud\""
     },

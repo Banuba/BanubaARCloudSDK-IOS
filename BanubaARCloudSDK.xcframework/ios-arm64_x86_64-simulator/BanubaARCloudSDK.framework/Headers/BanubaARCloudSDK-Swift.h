@@ -327,6 +327,7 @@ SWIFT_CLASS("_TtC16BanubaARCloudSDK13BanubaARCloud")
 ///
 - (nonnull instancetype)initWithArCloudUrl:(NSString * _Nonnull)arCloudUrl effectsFolderURL:(NSURL * _Nonnull)effectsFolderURL OBJC_DESIGNATED_INITIALIZER;
 /// Retrieve ar effects from cloud.
+/// Also returns embedded effects which described in embeddedEffectURLs param in init method.
 - (void)getAREffectsWithCompletion:(void (^ _Nonnull)(NSArray<id <AREffect>> * _Nullable, NSError * _Nullable))completion;
 /// Retrieve the ar effect preview image
 - (void)getArEffectPreview:(id <AREffect> _Nonnull)effect completion:(void (^ _Nonnull)(UIImage * _Nullable, NSError * _Nullable))completion;
@@ -677,6 +678,7 @@ SWIFT_CLASS("_TtC16BanubaARCloudSDK13BanubaARCloud")
 ///
 - (nonnull instancetype)initWithArCloudUrl:(NSString * _Nonnull)arCloudUrl effectsFolderURL:(NSURL * _Nonnull)effectsFolderURL OBJC_DESIGNATED_INITIALIZER;
 /// Retrieve ar effects from cloud.
+/// Also returns embedded effects which described in embeddedEffectURLs param in init method.
 - (void)getAREffectsWithCompletion:(void (^ _Nonnull)(NSArray<id <AREffect>> * _Nullable, NSError * _Nullable))completion;
 /// Retrieve the ar effect preview image
 - (void)getArEffectPreview:(id <AREffect> _Nonnull)effect completion:(void (^ _Nonnull)(UIImage * _Nullable, NSError * _Nullable))completion;
