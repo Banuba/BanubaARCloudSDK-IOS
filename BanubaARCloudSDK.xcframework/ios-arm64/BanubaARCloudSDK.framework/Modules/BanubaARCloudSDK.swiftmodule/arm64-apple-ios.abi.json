@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "BanubaARCloudSDK",
+    "printedName": "BanubaARCloudSDK",
     "children": [
       {
         "kind": "Import",
@@ -399,6 +399,22 @@
           "AccessControl",
           "ObjC",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -893,6 +909,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -1174,6 +1204,20 @@
           },
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Decodable",
             "printedName": "Decodable",
             "usr": "s:Se",
@@ -1337,6 +1381,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "_FormatSpecifiable",
             "printedName": "_FormatSpecifiable",
             "children": [
@@ -1417,44 +1468,9 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
       "kind": "StringLiteral",
-      "offset": 1384,
-      "length": 9,
-      "value": "\"Preview\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
-      "kind": "StringLiteral",
-      "offset": 1418,
-      "length": 5,
-      "value": "\"URL\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
-      "kind": "StringLiteral",
-      "offset": 1440,
-      "length": 6,
-      "value": "\"ETag\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
-      "kind": "StringLiteral",
-      "offset": 1467,
-      "length": 10,
-      "value": "\"localURL\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
-      "kind": "StringLiteral",
-      "offset": 1495,
-      "length": 7,
-      "value": "\"order\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
-      "kind": "StringLiteral",
-      "offset": 1519,
-      "length": 6,
-      "value": "\"type\""
+      "offset": 760,
+      "length": 3,
+      "value": "\".\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaARCloudSDK\/BanubaARCloudSDK\/Entities\/Network\/Effect.swift",
@@ -1511,13 +1527,6 @@
       "offset": 798,
       "length": 1,
       "value": "3"
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaARCloudSDK\/BanubaARCloudSDK\/BanubaARCloudSDK.swift",
-      "kind": "StringLiteral",
-      "offset": 357,
-      "length": 13,
-      "value": "\"BanubaARCloudSDK.BanubaARCloud\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaARCloudSDK\/BanubaARCloudSDK\/Services\/ARServicing\/NetworkService.swift",
