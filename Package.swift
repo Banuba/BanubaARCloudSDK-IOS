@@ -2,7 +2,7 @@
 
 import PackageDescription
 
-let utilsVersionRange: Range<Version> = "1.40.0"..<"1.49.99"
+let version: Version = "1.40.1"
 
 let package = Package(
   name: "BanubaARCloudSDK",
@@ -16,7 +16,7 @@ let package = Package(
     )
   ],
   dependencies: [
-      .package(url: "https://github.com/Banuba/BanubaUtilities-iOS.git", utilsVersionRange),
+    .package(url: "https://github.com/Banuba/BanubaUtilities-iOS.git", exact: version),
   ],
   targets: [
     .binaryTarget(
