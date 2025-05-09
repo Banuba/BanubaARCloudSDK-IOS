@@ -2,41 +2,21 @@
 
 import PackageDescription
 
-let version: Version = "1.43.0"
-
 let package = Package(
   name: "BanubaARCloudSDK",
   platforms: [
-    .iOS(.v15)
+    .iOS(.v17)
   ],
   products: [
     .library(
       name: "BanubaARCloudSDK",
-      targets: ["BanubaARCloudSDKTarget"]
+      targets: ["BanubaARCloudSDK"]
     )
-  ],
-  dependencies: [
-    .package(url: "https://github.com/Banuba/BanubaUtilities-iOS.git", exact: version),
   ],
   targets: [
     .binaryTarget(
       name: "BanubaARCloudSDK",
       path: "BanubaARCloudSDK.xcframework"
-    ),
-    .target(
-      name: "BanubaARCloudSDKTarget",
-      dependencies: [
-        .target(name: "BanubaARCloudSDKWrapper")
-      ],
-      path: "BanubaARCloudSDKTarget"
-    ),
-    .target(
-      name: "BanubaARCloudSDKWrapper",
-      dependencies: [
-        "BanubaARCloudSDK",
-        .product(name: "BanubaUtilities", package: "BanubaUtilities-iOS")
-      ],
-      path: "BanubaARCloudSDKWrapper"
     )
   ]
 )
