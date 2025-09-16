@@ -327,7 +327,7 @@ SWIFT_CLASS("_TtC16BanubaARCloudSDK13BanubaARCloud")
 /// Initialize AR cloud client with UUID string.
 /// \param arCloudUrl the url that is used to provide effects.
 ///
-/// \param effectsFolderURL the url of the folder where effects will be stored.
+/// \param effectsFolderURL the of the folder where effects will be stored.
 ///
 - (nonnull instancetype)initWithArCloudUrl:(NSString * _Nonnull)arCloudUrl effectsFolderURL:(NSURL * _Nonnull)effectsFolderURL OBJC_DESIGNATED_INITIALIZER;
 /// Retrieve ar effects from cloud.
