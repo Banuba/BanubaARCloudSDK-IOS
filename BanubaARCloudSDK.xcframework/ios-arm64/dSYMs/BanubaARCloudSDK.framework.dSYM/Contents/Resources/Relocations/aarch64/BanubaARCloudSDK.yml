@@ -1,9 +1,9 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/andreysak/Library/Developer/Xcode/DerivedData/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx/Build/Intermediates.noindex/ArchiveIntermediates/BanubaARCloudSDK/InstallationBuildProductsLocation/Library/Frameworks/BanubaARCloudSDK.framework/BanubaARCloudSDK'
+binary-path:     '/Users/user/Library/Developer/Xcode/DerivedData/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi/Build/Intermediates.noindex/ArchiveIntermediates/BanubaARCloudSDK/InstallationBuildProductsLocation/Library/Frameworks/BanubaARCloudSDK.framework/BanubaARCloudSDK'
 relocations:
   - { offset: 0x89ABD, size: 0x8, addend: 0x0, symName: _BanubaARCloudSDKVersionString, symObjAddr: 0x0, symBinAddr: 0x16A40, symSize: 0x0 }
-  - { offset: 0x89AF4, size: 0x8, addend: 0x0, symName: _BanubaARCloudSDKVersionNumber, symObjAddr: 0x48, symBinAddr: 0x16A88, symSize: 0x0 }
+  - { offset: 0x89AF4, size: 0x8, addend: 0x0, symName: _BanubaARCloudSDKVersionNumber, symObjAddr: 0x40, symBinAddr: 0x16A80, symSize: 0x0 }
   - { offset: 0x89D32, size: 0x8, addend: 0x0, symName: '_$s16BanubaARCloudSDK15EffectsResponseCMa', symObjAddr: 0x1D0, symBinAddr: 0x41D0, symSize: 0x20 }
   - { offset: 0x89D46, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledNameV2, symObjAddr: 0x51C, symBinAddr: 0x451C, symSize: 0x44 }
   - { offset: 0x89D5A, size: 0x8, addend: 0x0, symName: ___swift_project_boxed_opaque_existential_1, symObjAddr: 0x560, symBinAddr: 0x4560, symSize: 0x24 }
@@ -186,7 +186,7 @@ relocations:
   - { offset: 0x92B20, size: 0x8, addend: 0x0, symName: '_$s16BanubaARCloudSDK15OptionalCodableV6encode2toys7Encoder_p_tKF', symObjAddr: 0x9B8, symBinAddr: 0xF45C, symSize: 0xF4 }
   - { offset: 0x92B6A, size: 0x8, addend: 0x0, symName: '_$s16BanubaARCloudSDK15OptionalCodableVyxGSeAASe4fromxs7Decoder_p_tKcfCTW', symObjAddr: 0xAAC, symBinAddr: 0xF550, symSize: 0x20 }
   - { offset: 0x92B7E, size: 0x8, addend: 0x0, symName: '_$s16BanubaARCloudSDK15OptionalCodableVyxGSEAASE6encode2toys7Encoder_p_tKFTW', symObjAddr: 0xACC, symBinAddr: 0xF570, symSize: 0x14 }
-  - { offset: 0x92CBB, size: 0x8, addend: 0x0, symName: '_$s16BanubaARCloudSDK0aB0C24backgroundSessionSettinsAA010BackgroundE8SettingsVSgvpZ', symObjAddr: 0x7BF8, symBinAddr: 0x23528, symSize: 0x0 }
+  - { offset: 0x92CBB, size: 0x8, addend: 0x0, symName: '_$s16BanubaARCloudSDK0aB0C24backgroundSessionSettinsAA010BackgroundE8SettingsVSgvpZ', symObjAddr: 0x7BE0, symBinAddr: 0x23528, symSize: 0x0 }
   - { offset: 0x92CD5, size: 0x8, addend: 0x0, symName: '_$sSu16BanubaARCloudSDKE7invalidSuvgZ', symObjAddr: 0x0, symBinAddr: 0xF5B0, symSize: 0x8 }
   - { offset: 0x93089, size: 0x8, addend: 0x0, symName: '_$s16BanubaARCloudSDK0aB0CfETo', symObjAddr: 0x9A8, symBinAddr: 0xFF58, symSize: 0x10 }
   - { offset: 0x930C3, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSo18NSFileAttributeKeya_Tg5', symObjAddr: 0x9B8, symBinAddr: 0xFF68, symSize: 0x80 }
@@ -219,7 +219,7 @@ relocations:
   - { offset: 0x93FEF, size: 0x8, addend: 0x0, symName: '_$s16BanubaARCloudSDK19NetworkServiceErrorO18mappedDescriptions33_D75E8EB41D8C3917CB21F664F29099C7LL_WZ', symObjAddr: 0x18, symBinAddr: 0x10440, symSize: 0x70 }
   - { offset: 0x94013, size: 0x8, addend: 0x0, symName: '_$s16BanubaARCloudSDK19NetworkServiceErrorO11errorDomainSSvpZ', symObjAddr: 0x4DD0, symBinAddr: 0x21C48, symSize: 0x0 }
   - { offset: 0x9402D, size: 0x8, addend: 0x0, symName: '_$s16BanubaARCloudSDK19NetworkServiceErrorO18mappedDescriptions33_D75E8EB41D8C3917CB21F664F29099C7LLSDyACSSGvpZ', symObjAddr: 0x4DE0, symBinAddr: 0x21C58, symSize: 0x0 }
-  - { offset: 0x9413C, size: 0x8, addend: 0x0, symName: '_$s16BanubaARCloudSDK14NetworkServiceC25backgroundSessionSettingsAA010BackgroundgH0VSgvpZ', symObjAddr: 0x18860, symBinAddr: 0x23548, symSize: 0x0 }
+  - { offset: 0x9413C, size: 0x8, addend: 0x0, symName: '_$s16BanubaARCloudSDK14NetworkServiceC25backgroundSessionSettingsAA010BackgroundgH0VSgvpZ', symObjAddr: 0x18848, symBinAddr: 0x23548, symSize: 0x0 }
   - { offset: 0x94176, size: 0x8, addend: 0x0, symName: '_$s16BanubaARCloudSDK19NetworkServiceErrorO18mappedDescriptions33_D75E8EB41D8C3917CB21F664F29099C7LL_WZ', symObjAddr: 0x18, symBinAddr: 0x10440, symSize: 0x70 }
   - { offset: 0x94266, size: 0x8, addend: 0x0, symName: '_$s16BanubaARCloudSDK18CancelationHandlerCMa', symObjAddr: 0x29C, symBinAddr: 0x106C4, symSize: 0x20 }
   - { offset: 0x944F0, size: 0x8, addend: 0x0, symName: '_$s16BanubaARCloudSDK14NetworkServiceCfETo', symObjAddr: 0x7E0, symBinAddr: 0x10C08, symSize: 0x48 }
