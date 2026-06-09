@@ -2,7 +2,7 @@
 
 import PackageDescription
 
-let version: Version = "1.52.1"
+let banubaUtilsVersionRange: Range<Version> = "1.53.0"..<"1.53.99"
 
 let package = Package(
   name: "BanubaARCloudSDK",
@@ -16,12 +16,20 @@ let package = Package(
     )
   ],
   dependencies: [
-    .package(url: "https://github.com/Banuba/BanubaUtilities-iOS.git", exact: version),
+    .package(url: "https://github.com/Banuba/BanubaUtilities-iOS.git", banubaUtilsVersionRange),
   ],
   targets: [
+    // Local development uses the path-based binaryTarget below.
+    // Release flow (fastlane patch_package_swift_for_nexus) replaces it in the GitHub distribution repo with:
+    // .binaryTarget(
+    //   name: "BanubaARCloudSDK",
+    //   url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaARCloudSDK/{version}/BanubaARCloudSDK-{version}.xcframework.zip",
+    //   checksum: "{computed at release}"
+    // )
     .binaryTarget(
       name: "BanubaARCloudSDK",
-      path: "BanubaARCloudSDK.xcframework"
+      url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaARCloudSDK/1.53.0-beta.1/BanubaARCloudSDK-1.53.0-beta.1.xcframework.zip",
+      checksum: "66750f28ce1f8652a59ba7e5cd308d54daf1c06a546d418362217428963d7f0f"
     ),
     .target(
       name: "BanubaARCloudSDKTarget",
