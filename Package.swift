@@ -21,8 +21,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "BanubaARCloudSDK",
-      url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaARCloudSDK/1.54.2/BanubaARCloudSDK-1.54.2.xcframework.zip",
-      checksum: "cf8178cb09a2224bdd59315819f5fbe9d1db4b2c3811aed0c00a23b91444c279"
+      url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaARCloudSDK/1.54.3/BanubaARCloudSDK-1.54.3.xcframework.zip",
+      checksum: "8ea6ee586a267c8f80bbc2ec9f71b0c1b4e40398f21c9431e293cea455e9544c"
     ),
     .target(
       name: "BanubaARCloudSDKTarget",
