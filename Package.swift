@@ -2,7 +2,7 @@
 
 import PackageDescription
 
-let banubaUtilsVersionRange: Range<Version> = "0.54.5-beta.5"..<"1.59.99"
+let banubaUtilsVersionRange: Range<Version> = "1.55.0"..<"1.59.99"
 
 let package = Package(
   name: "BanubaARCloudSDK",
@@ -21,8 +21,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "BanubaARCloudSDK",
-      url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaARCloudSDK/0.54.5-beta.5/BanubaARCloudSDK-0.54.5-beta.5.xcframework.zip",
-      checksum: "b009c2ebddb89e38c7df1523d791959b3a0adeae57b5d1f7bccb0da11df87e00"
+      url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaARCloudSDK/1.55.0/BanubaARCloudSDK-1.55.0.xcframework.zip",
+      checksum: "d9faa1f6448ad7e0e8a52ecbd180d326d805d77dbe1c166a102c5dc173905336"
     ),
     .target(
       name: "BanubaARCloudSDKTarget",
